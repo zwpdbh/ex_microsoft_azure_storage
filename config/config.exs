@@ -1,3 +1,2 @@
-use Mix.Config
-
+import Config 
 # Do not put any config here...
